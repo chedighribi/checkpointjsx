@@ -1,0 +1,17 @@
+.images {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}
+
+.titlered {
+text-align: center;
+}
+video {
+display: none;
+}
